@@ -8,12 +8,12 @@ Open `index.html` directly in a browser. No install step is required.
 
 ## Tech Stack
 
-- **HTML5**: struktur halaman, form profil UMKM, daftar kontrol, dan elemen report.
-- **CSS3**: layout responsive, dashboard sidebar, kartu pertanyaan, state visual skor, dan print styling.
-- **Vanilla JavaScript**: data 25 kontrol PAMAN KAMI, perhitungan skor, filter pertanyaan, toggle bahasa, local save, action plan, ekspor JSON/CSV, dan print trigger.
-- **Browser Local Storage**: menyimpan profil, jawaban, catatan assessor, pilihan bahasa, dan filter terakhir secara lokal di browser pengguna.
-- **Static Assets**: logo dan icon PAMAN KAMI di `assets/paman-kami-logo.png`; cover English Edition tetap tersedia di `assets/paman-kami-english-edition.png`.
-- **No build tool / no backend**: aplikasi berjalan sebagai static web app, sehingga tidak memerlukan Node server, database, API, atau proses build.
+- **HTML5**: page structure, SME profile form, control checklist, and report elements.
+- **CSS3**: responsive layout, sidebar dashboard, question cards, score visual states, and print styling.
+- **Vanilla JavaScript**: 25 PAMAN KAMI controls, score calculation, question filters, language toggle, local save, action plan, JSON/CSV export, and print trigger.
+- **Browser Local Storage**: stores the business profile, answers, assessor notes, language preference, and latest filter locally in the user's browser.
+- **Static Assets**: PAMAN KAMI logo and browser icon at `assets/paman-kami-logo.png`; English Edition cover image remains available at `assets/paman-kami-english-edition.png`.
+- **No build tool / no backend**: the app runs as a static web app and does not require a Node server, database, API, or build process.
 
 ## What It Includes
 
@@ -39,39 +39,39 @@ The app paraphrases the guide's vulnerability explanations and protection steps 
 
 ## Development Deployment
 
-Gunakan mode development saat ingin mengubah konten, styling, atau logic scoring.
+Use the development setup when changing content, styling, scoring logic, or language strings.
 
-1. Masuk ke folder project:
+1. Go to the project folder:
 
    ```bash
    cd "/ProjectFolder"
    ```
 
-2. Jalankan static web server lokal:
+2. Start a local static web server:
 
    ```bash
    python3 -m http.server 4173
    ```
 
-3. Buka aplikasi di browser:
+3. Open the app in a browser:
 
    ```text
    http://localhost:4173/index.html
    ```
 
-4. Setelah mengubah JavaScript, cek sintaks:
+4. After editing JavaScript, check syntax:
 
    ```bash
    node --check app.js
    ```
 
-5. Reload browser untuk melihat perubahan. Data assessment tersimpan di local storage browser; gunakan tombol reset di aplikasi jika ingin mulai dari kosong.
+5. Reload the browser to view changes. Assessment data is stored in browser local storage; use the reset button in the app if you want to start from an empty assessment.
 
 ## Production Deployment
 
-Aplikasi ini dapat dipasang di server atau static hosting apa pun karena hanya membutuhkan file statis.
+This app can be deployed to any web server or static hosting service because it only needs static files.
 
-1. Siapkan file yang akan dipublish:
+1. Prepare the files to publish:
 
    ```text
    index.html
@@ -80,9 +80,9 @@ Aplikasi ini dapat dipasang di server atau static hosting apa pun karena hanya m
    assets/
    ```
 
-2. Upload file tersebut ke static hosting, misalnya Nginx, Apache, GitHub Pages, Netlify, Vercel static output, Cloudflare Pages, atau object storage dengan static website hosting.
+2. Upload those files to a static hosting target, such as Nginx, Apache, GitHub Pages, Netlify, Vercel static output, Cloudflare Pages, or object storage with static website hosting.
 
-3. Pastikan web server mengirim file dengan content type standar:
+3. Make sure the web server sends standard content types:
 
    ```text
    .html -> text/html
@@ -91,7 +91,7 @@ Aplikasi ini dapat dipasang di server atau static hosting apa pun karena hanya m
    .png  -> image/png
    ```
 
-4. Untuk Nginx, root minimal dapat diarahkan ke folder project:
+4. For Nginx, a minimal site configuration can point the root to the project folder:
 
    ```nginx
    server {
@@ -106,15 +106,16 @@ Aplikasi ini dapat dipasang di server atau static hosting apa pun karena hanya m
    }
    ```
 
-5. Untuk production, gunakan HTTPS agar local storage dan download report berjalan dalam konteks browser yang aman.
+5. Use HTTPS in production so local storage and report downloads run in a secure browser context.
 
-6. Folder `source/` berisi ekstraksi referensi guide. Folder ini boleh disertakan untuk audit internal, tetapi tidak wajib dipublish jika hanya ingin menyajikan aplikasi assessment.
+6. The `source/` folder contains the extracted guide reference. Include it for internal auditability, or omit it if you only want to publish the assessment app.
 
 ## Production Checklist
 
-- Logo dan favicon termuat dari `assets/paman-kami-logo.png`.
-- Seluruh 25 pertanyaan dan translasi Inggris tampil.
-- Export JSON dan CSV berjalan di browser target.
-- Print report menghasilkan layout yang rapi.
-- Tidak ada error di browser console.
-- Server mengaktifkan HTTPS dan tidak memerlukan backend tambahan.
+- Logo and favicon load from `assets/paman-kami-logo.png`.
+- All 25 questions and English translations display correctly.
+- The Indonesian/English language toggle updates static labels, questions, risk guidance, and protection steps.
+- JSON and CSV export work in the target browser.
+- Print report layout is clean.
+- There are no browser console errors.
+- The server uses HTTPS and does not require any backend service.
