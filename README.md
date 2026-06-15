@@ -44,7 +44,7 @@ Gunakan mode development saat ingin mengubah konten, styling, atau logic scoring
 1. Masuk ke folder project:
 
    ```bash
-   cd "/Users/richardmiles/Documents/06. D41 2026/YY. Tim Eksternal/04. Kaspersky WSISS/Building Cyber Security of SMEs Indonesia"
+   cd "/ProjectFolder/Building Cyber Security of SMEs Indonesia"
    ```
 
 2. Jalankan static web server lokal:
