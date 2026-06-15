@@ -44,7 +44,7 @@ Gunakan mode development saat ingin mengubah konten, styling, atau logic scoring
 1. Masuk ke folder project:
 
    ```bash
-   cd "/ProjectFolder/Building Cyber Security of SMEs Indonesia"
+   cd "/ProjectFolder"
    ```
 
 2. Jalankan static web server lokal:
