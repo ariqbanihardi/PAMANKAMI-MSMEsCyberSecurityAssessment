@@ -1,0 +1,240 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PAMAN KAMI | Penilaian Kapabilitas Keamanan Siber UMKM</title>
+    <link rel="icon" type="image/png" href="assets/paman-kami-logo.png">
+    <link rel="apple-touch-icon" href="assets/paman-kami-logo.png">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div class="brand">
+          <img class="header-logo" src="assets/paman-kami-logo.png" alt="PAMAN KAMI logo">
+          <div>
+            <p class="eyebrow">PAMAN KAMI 2.0</p>
+            <h1 data-i18n="appTitle">Penilaian Kapabilitas Keamanan Siber UMKM</h1>
+          </div>
+        </div>
+        <div class="toolbar" aria-label="Alat penilaian" data-i18n-aria="toolsLabel">
+          <div class="language-setting" aria-label="Pengaturan bahasa" data-i18n-aria="languageSettingLabel">
+            <span data-i18n="languageLabel">Bahasa</span>
+            <div class="language-toggle" role="group" aria-label="Bahasa tampilan" data-i18n-aria="displayLanguageLabel">
+              <button type="button" data-language="id" class="active" aria-pressed="true">ID</button>
+              <button type="button" data-language="en" aria-pressed="false">EN</button>
+            </div>
+          </div>
+          <button class="icon-button" id="printReport" type="button" aria-label="Cetak report" title="Cetak report" data-i18n-aria="printReport" data-i18n-title="printReport">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M6 9V3h12v6"></path>
+              <path d="M6 17H4a2 2 0 0 1-2-2v-4a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2h-2"></path>
+              <path d="M6 14h12v7H6z"></path>
+            </svg>
+          </button>
+          <button class="icon-button" id="downloadJson" type="button" aria-label="Unduh report JSON" title="Unduh report JSON" data-i18n-aria="downloadJson" data-i18n-title="downloadJson">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M12 3v12"></path>
+              <path d="m7 10 5 5 5-5"></path>
+              <path d="M5 21h14"></path>
+            </svg>
+          </button>
+          <button class="icon-button" id="downloadCsv" type="button" aria-label="Unduh jawaban CSV" title="Unduh jawaban CSV" data-i18n-aria="downloadCsv" data-i18n-title="downloadCsv">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+              <path d="M14 2v6h6"></path>
+              <path d="M8 13h8"></path>
+              <path d="M8 17h8"></path>
+            </svg>
+          </button>
+          <button class="icon-button danger" id="resetAssessment" type="button" aria-label="Reset penilaian" title="Reset penilaian" data-i18n-aria="resetAssessment" data-i18n-title="resetAssessment">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M3 12a9 9 0 1 0 3-6.7"></path>
+              <path d="M3 3v6h6"></path>
+            </svg>
+          </button>
+        </div>
+      </header>
+
+      <main class="layout">
+        <aside class="sidebar" aria-label="Ringkasan penilaian" data-i18n-aria="assessmentSummaryLabel">
+          <section class="score-panel">
+            <div>
+              <p class="eyebrow" data-i18n="currentScore">Skor Saat Ini</p>
+              <div class="score-row">
+                <strong id="scoreValue">0</strong>
+                <span>/100</span>
+              </div>
+            </div>
+            <span id="ratingBadge" class="rating-badge buruk">Buruk</span>
+            <div class="progress-track" aria-hidden="true">
+              <span id="scoreBar"></span>
+            </div>
+            <p id="ratingSummary" class="muted">Lengkapi 25 kontrol untuk menghitung skor PAMAN KAMI.</p>
+          </section>
+
+          <section class="summary-panel">
+            <h2 data-i18n="progress">Progres</h2>
+            <div class="metric-list">
+              <div>
+                <span data-i18n="answered">Terjawab</span>
+                <strong id="answeredCount">0/25</strong>
+              </div>
+              <div>
+                <span data-i18n="fullyApplied">Diterapkan menyeluruh</span>
+                <strong id="fullCount">0</strong>
+              </div>
+              <div>
+                <span data-i18n="openGaps">Gap terbuka</span>
+                <strong id="gapCount">25</strong>
+              </div>
+            </div>
+          </section>
+
+          <nav class="domain-nav" id="domainNav" aria-label="Ringkasan skor domain" data-i18n-aria="domainScoreOverview"></nav>
+
+          <section class="guide-panel">
+            <h2 data-i18n="guideBasis">Dasar Panduan</h2>
+            <p data-i18n="guideBasisText">PAMAN KAMI adalah penilaian mandiri BSSN untuk usaha kecil dan menengah. Setiap kontrol bernilai DM = 4, DS = 2, TD/TT = 0.</p>
+          </section>
+        </aside>
+
+        <section class="workspace">
+          <section class="tool-panel profile-panel" aria-labelledby="profileTitle">
+            <div class="section-head">
+              <div>
+                <p class="eyebrow" data-i18n="businessProfile">Profil Usaha</p>
+                <h2 id="profileTitle" data-i18n="smeDetails">Detail UMKM</h2>
+              </div>
+              <span class="save-state" id="saveState" data-i18n="saved">Tersimpan lokal</span>
+            </div>
+
+            <form class="profile-grid" id="profileForm">
+              <label>
+                <span data-i18n="businessName">Nama usaha</span>
+                <input data-profile name="businessName" type="text" autocomplete="organization">
+              </label>
+              <label>
+                <span data-i18n="brand">Merek</span>
+                <input data-profile name="brand" type="text">
+              </label>
+              <label>
+                <span data-i18n="businessScale">Skala usaha</span>
+                <select data-profile name="scale">
+                  <option value="" data-i18n="select">Pilih</option>
+                  <option>Mikro</option>
+                  <option>Kecil</option>
+                  <option>Menengah</option>
+                </select>
+              </label>
+              <label>
+                <span data-i18n="legalForm">Bentuk usaha</span>
+                <select data-profile name="legalForm">
+                  <option value="" data-i18n="select">Pilih</option>
+                  <option>Firma</option>
+                  <option>CV</option>
+                  <option>PT</option>
+                  <option>Koperasi</option>
+                  <option>Perseorangan</option>
+                  <option>Lainnya</option>
+                </select>
+              </label>
+              <label>
+                <span data-i18n="assets">Aset</span>
+                <select data-profile name="assets">
+                  <option value="" data-i18n="select">Pilih</option>
+                  <option>&lt; 50 jt</option>
+                  <option>50 - 500 jt</option>
+                  <option>500 jt - 10 M</option>
+                  <option>&gt; 50 M</option>
+                </select>
+              </label>
+              <label>
+                <span data-i18n="annualRevenue">Omzet tahunan</span>
+                <select data-profile name="revenue">
+                  <option value="" data-i18n="select">Pilih</option>
+                  <option>&lt; 300 jt</option>
+                  <option>300 jt - 2,5 M</option>
+                  <option>2,5 M - 50 M</option>
+                  <option>&gt; 50 M</option>
+                </select>
+              </label>
+              <label>
+                <span data-i18n="employees">Karyawan</span>
+                <select data-profile name="employees">
+                  <option value="" data-i18n="select">Pilih</option>
+                  <option>&lt; 10 Orang</option>
+                  <option>11 - 30 Orang</option>
+                  <option>30 - 300 Orang</option>
+                  <option>&gt; 300 Orang</option>
+                </select>
+              </label>
+              <label>
+                <span data-i18n="website">Situs web</span>
+                <input data-profile name="website" type="url" placeholder="https://">
+              </label>
+              <label class="span-2">
+                <span data-i18n="address">Alamat</span>
+                <input data-profile name="address" type="text" autocomplete="street-address">
+              </label>
+              <fieldset class="span-2 checkset">
+                <legend data-i18n="digitalChannels">Kanal digital</legend>
+                <label><input data-profile-list="channels" type="checkbox" value="Facebook"> Facebook</label>
+                <label><input data-profile-list="channels" type="checkbox" value="Instagram"> Instagram</label>
+                <label><input data-profile-list="channels" type="checkbox" value="Marketplace"> Marketplace</label>
+                <label><input data-profile-list="channels" type="checkbox" value="Website"> <span data-i18n="website">Situs web</span></label>
+                <label><input data-profile-list="channels" type="checkbox" value="Mobile Apps"> <span data-i18n="mobileApps">Aplikasi mobile</span></label>
+              </fieldset>
+              <label>
+                <span data-i18n="assessorName">Nama assessor</span>
+                <input data-profile name="assessorName" type="text" autocomplete="name">
+              </label>
+              <label>
+                <span data-i18n="role">Jabatan</span>
+                <input data-profile name="assessorRole" type="text">
+              </label>
+              <label>
+                Email
+                <input data-profile name="email" type="email" autocomplete="email">
+              </label>
+              <label>
+                <span data-i18n="phone">Telepon</span>
+                <input data-profile name="phone" type="tel" autocomplete="tel">
+              </label>
+            </form>
+          </section>
+
+          <section class="tool-panel assessment-panel" aria-labelledby="assessmentTitle">
+            <div class="section-head">
+              <div>
+                <p class="eyebrow" data-i18n="controlsCount">25 Kontrol</p>
+                <h2 id="assessmentTitle" data-i18n="capabilityChecklist">Checklist Kapabilitas</h2>
+              </div>
+              <div class="segmented" aria-label="Filter pertanyaan" data-i18n-aria="questionFilters">
+                <button type="button" data-filter="all" class="active" data-i18n="filterAll">Semua</button>
+                <button type="button" data-filter="gaps" data-i18n="filterGaps">Gap</button>
+                <button type="button" data-filter="unanswered" data-i18n="filterUnanswered">Belum dijawab</button>
+                <button type="button" data-filter="priority" data-i18n="filterPriority">Prioritas</button>
+              </div>
+            </div>
+            <div id="questions" class="question-list"></div>
+          </section>
+
+          <section class="tool-panel report-panel" aria-labelledby="reportTitle">
+            <div class="section-head">
+              <div>
+                <p class="eyebrow" data-i18n="generatedOutput">Output Dibuat</p>
+                <h2 id="reportTitle" data-i18n="actionPlan">Rencana Aksi</h2>
+              </div>
+              <button class="text-button" id="copyPlan" type="button" data-i18n="copySummary">Salin Ringkasan</button>
+            </div>
+            <div id="actionPlan" class="action-plan"></div>
+          </section>
+        </section>
+      </main>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

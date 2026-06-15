@@ -1,0 +1,2142 @@
+
+
+--- PAGE 1 ---
+Direktorat Proteksi Ekonomi Digital 2019 
+ 
+   
+Gunakan -PAMAN KAMI- untuk memeriksa 
+status keamanan informasi usaha Anda  
+Lindungi aset usaha Anda ! 
+PENILAIAN MANDIRI KEAMANAN INFORMASI  
+(PAMAN KAMI) 
+UNTUK USAHA KECIL MENENGAH 
+EDISI BAHASA INDONESIA 
+
+
+--- PAGE 2 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+Penilaian Mandiri Keamanan Informasi 
+(PAMAN KAMI) 
+ Untuk Usaha Kecil Menengah  
+ 
+ 
+ 
+  
+
+
+--- PAGE 3 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+2 
+ 
+Penilaian Mandiri Keamanan Informasi 
+(PAMAN KAMI) 
+Untuk Usaha Kecil Menengah 
+ 
+ 
+Diterbitkan oleh  
+Direktorat Proteksi Ekonomi Digital, Deputi Bidang Proteksi 
+ Badan Siber dan Sandi Negara, 2020. 
+Jalan Harsono RM No. 70 
+Ragunan, Pasar Minggu 
+Jakarta Selatan 12550 
+www.bssn.go.id 
+ 
+ 
+Cetakan Pertama: Februari 2020  
+ 
+ 
+Susunan Redaksi 
+ 
+Pembina : Akhmad Toha, S.AP. 
+Pengarah : Anton Setiyawan, S.Si., M.M. 
+Penyusun : Baderi, S.Sos., M.E., C.CISO.  
+  Eko Tulus Budi Cahyanto, S.S.T.TP. 
+ 
+ 
+Penilaian Mandiri Keamanan Informasi 
+(PAMAN KAMI) Untuk Usaha Kecil Menengah 
+Direktorat Proteksi Ekonomi Digital, 
+Jakarta; BSSN; 2020 
+36 hlm; 14,8 x 21 cm 
+ISBN: 978-623-93005-0-0 
+ 
+ 
+ 
+Hak Cipta dilindungi Undang-Undang Republik Indonesia Nomor 28 Tahun 2014 
+tentang Hak Cipta 
+ 
+  
+
+
+--- PAGE 4 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+3 
+ 
+Salam Aman dan Sejahtera bagi kita semua, 
+Indonesia telah memasuki babak baru dalam era yang 
+serba siber, yang ditandai dengan hadirnya revolusi 
+industri 4.0. Hal tersebut menuntut Pemerintah, 
+masyarakat, dan dunia usaha untuk dapat beradaptasi 
+dengan perkembangan siber. 
+Interaksi sosial masyarakat turut berubah seiring hadirnya 
+teknologi siber yang menyediakan berbagai macam 
+kemudahan dalam bertransaksi. Dunia usaha tradisional 
+atau konvensional dalam bentuk usaha mikro, kecil maupun menengah mengalami 
+pergeseran menuju era baru dengan memanfaatkan media siber seperti media 
+sosial, mesin pencari ( search engine ), website, dan platform marketplace  dalam 
+menjalankan usahanya. Usaha dengan memanfaatkan media siber sangat 
+mempermudah masya rakat karena dapat mengefisien kan waktu, tempat, dan 
+biaya.  
+ Di sisi lain, kemajuan teknologi siber tersebut ternyata memiliki dampak 
+negatif pada kegiatan usaha. Semakin berkembangnya teknologi siber, maka akan 
+semakin berkembang pula jenis kejahatan bar u. Kejahatan yang dimaksud dikenal 
+dengan nama kejahatan siber. Kejahatan siber ini menyerang unsur -unsur dunia 
+siber, yang salah satunya menyasar pada usaha yang memanfaatkan media digital. 
+Kejahatan siber tersebut dapat mengakibatkan timbulnya kerugian b agi para 
+pelaku atau pemilik usaha, mulai dari kerugian reputasi hingga kerugian finansial. 
+ Guna mencegah terjadinya kerugian tersebut sejak dini, maka diperlukan 
+langkah proteksi yang dimulai dari pemahaman akan pentingnya keamanan siber 
+(keamanan informasi). Dengan adanya pemahaman akan pentingnya keamanan 
+siber, para pelaku usaha diharapkan mampu menerapkan prinsip-prinsip keamanan 
+siber dalam membangun dan mengembangkan usahanya,  sehingga dapat 
+berjalan dengan aman dan lancar.  
+Menyikapi permasalahan t ersebut, Badan Siber dan Sandi Negara Republik 
+Indonesia (BSSN) mempersembahkan pedoman Penilaian Mandiri Keamanan 
+Informasi Untuk Usaha Kecil Menengah yang selanjutnya disebut PAMAN KAMI untuk 
+UKM.  PAMAN KAMI sebagai solusi praktis yang kami tawarkan bag i UKM di seluruh 
+Indonesia, bahkan tidak menutup kemungkinan ditawarkan kepada masyarakat 
+Kata Pengantar  
+ 
+
+
+
+--- PAGE 5 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+4 
+dunia melalui forum -forum ekonomi internasional. Kami berharap PAMAN KAMI 
+dapat digunakan ol eh pelaku UKM sebagai langkah awal guna memeriksa status 
+keamanan informas i di usahanya, sehingga dapat mencegah maupun 
+menanggulangi terjadinya insiden serangan siber. Inilah bentuk peran serta BSSN 
+dalam mewujudkan keamanan nasional serta meningkatkan pe rtumbuhan 
+perekonomian nasional. 
+Demikian persembahan kami, apresiasi dan terima kasih disampaikan untuk semua 
+pihak yang telah berperan dalam penyusunan dan para pengguna pedoman 
+PAMAN KAMI untuk UKM.  
+Bersama BSSN, Kita Aman dan Sejahtera 
+   
+ 
+Jakarta, 22 Januari 2020 
+Kepala Badan Siber dan Sandi Negara, 
+ 
+ttd. 
+ 
+Letjen TNI (Purn) Hinsa Siburian 
+
+
+--- PAGE 6 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+5 
+ 
+Kata Pengantar ....................................................................................................... 3 
+Daftar Isi  ................................................................................................................... 5 
+PAMAN KAMI untuk UKM  ....................................................................................... 6 
+Penjelasan Kerentanan dan Langkah Proteksi  ................................................... 13 
+Referensi ................................................................................................................... 34 
+Riwayat Perubahan Pra Launching  ...................................................................... 35 
+ 
+  
+Daftar Isi  
+ 
+
+
+--- PAGE 7 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+6 
+ 
+  
+PAMAN KAMI  fokus pada 25 langkah keamana n informasi bagi pelaku UKM. 
+Pengisian PAMAN KAMI membutuhkan waktu kurang lebih 5 menit dan dapat 
+diterapkan dengan biaya yang minim. PAMAN KAMI dapat digunakan sebagai 
+langkah awal untuk mengukur tingkat keamanan informasi pada pelaku UKM 
+sehingga inside n serangan siber dapat dicegah dan diminimalis asi dengan 
+lebih baik . Di samping itu,  para pelaku UKM dapat membangun dan 
+mengembangkan usahanya dengan lancar dan aman dari serangan siber 
+demi mewuju dkan keamanan nasional serta meningkatkan pertumbuhan 
+perekonomian nasional.  
+Langkah keamanan informasi pada PAMAN KAMI bisa digunakan dengan 
+syarat sebagai berikut: 
+❖ Organisasi usaha tidak memiliki server atau peralatan jaringan yang 
+memerlukan pengaturan rumit. 
+❖ Tidak ada perangkat lunak aplikasi yang dikembangkan secara mandiri oleh 
+organisasi usaha, dan hanya menggunakan perangkat lunak 
+aplikasi/platform yang tersedia secara komersial/pihak ketiga. 
+Jika Anda mencetak 100 poin  
+(SEMPURNA) 
+Langkah keamanan informasi yang Anda 
+terapkan sudah sempurna. Rencanakan 
+langkah untuk naik ke level berikutnya. 
+Jika Anda mencetak 90-99 poin 
+(BAIK) 
+Hampir sempurna, namun ada beberapa 
+langkah yang belum diterapkan secara 
+menyeluruh, sehingga butuh penerapan 
+keamanan lebih lanjut. 
+Jika Anda mencetak 70-89 poin 
+(CUKUP) 
+Langkah keamanan cukup baik. Terapkan 
+langkah proteksi yang ada untuk 
+meningkatkan keamanan informasi Anda. 
+Jika Anda mencetak 50 - 69 poin 
+(KURANG) 
+Terdapat bidang yang secara eksplisit 
+mengalami kekurangan langkah 
+keamanan. 
+Jika Anda mencetak 49 poin 
+atau lebih rendah 
+ 
+(BURUK) 
+Keamanan informasi perusahaan Anda 
+buruk. Anda seharusnya tidak terkejut jika 
+terjadi insiden seperti kebocoran data. 
+ 
+PAMAN KAMI untuk UKM  
+ 
+
+
+--- PAGE 8 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Identitas Usaha (Perusahaan) 
+ 
+Nama Usaha  :  
+ 
+Branding :  
+ 
+Skala Usaha :  Mikro  Kecil  Menengah 
+ 
+Bentuk Usaha :  Firma  CV  PT 
+ 
+   Koperasi  Perseorangan   
+ 
+   Lainnya Sebutkan: 
+ 
+Aset Usaha :  < 50 jt  50 - 500 jt  50 jt – 10 M 
+ 
+   > 50 M     
+ 
+Omzet Usaha :  < 300 jt  300 jt - 2,5 M  2,5 M – 50 M 
+ 
+   > 50 M     
+ 
+Karyawan :  < 10 Orang  11 - 30 Orang  30 – 300 Orang 
+ 
+   >300 Orang     
+ 
+Alamat :  
+ 
+ 
+Petunjuk Pengisian 
+a. Jawablah seluruh pertanyaan dibawah ini dengan jujur. 
+b. Berilah tanda (x) pada kolom yang tersedia  dan pilih sesuai dengan 
+keadaan yang sebenarnya. 
+ 
+ 
+
+
+--- PAGE 9 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+8 
+  
+Media Digital Usaha 
+ 
+Media Sosial :  Facebook  Instagram  Line   
+ 
+   Lainnya Sebutkan: 
+ 
+Marketplace :  Bukalapak  Shopee  Blibli  Bhineka 
+ 
+   Tokopedia  Lazada  JD.ID  Zalora 
+ 
+   Lainnya Sebutkan: 
+ 
+Website Pribadi :  
+ 
+Mobile Apps :  
+ 
+Identitas Pemilik Usaha atau Pengisi PAMAN KAMI 
+Nama :  
+ 
+Jabatan :  
+ 
+No HP :  
+ 
+Email :  
+ 
+Jenis Kelamin :  Laki - Laki  Perempuan 
+ 
+Pendidikan :  SD  SMP  SMA  D3 
+ 
+   D4/S1  S2  S3   
+ 
+Umur :  < 20 th  20–30 th  30–40 th   40-50 th 
+ 
+   >50 th       
+ 
+
+
+--- PAGE 10 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NO ITEM PERTANYAAN PENILAIAN 
+PENERAPAN 
+DM DS TD TT 
+1 Apakah Anda sudah melakukan identifikasi 
+terhadap aset-aset penting usaha (perusahaan) 
+yang harus dilindungi? 
+ 
+4 2 0 0 
+2 Apakah Anda sudah melakukan identifikasi 
+terhadap semua kemungkinan risiko hilangnya 
+aset-aset penting usaha (perusahaan)? 
+ 
+4 2 0 0 
+3 Apakah Anda memiliki prosedur dan kebijakan 
+keamanan informasi yang diterapkan untuk 
+melindungi aset -aset penting usaha 
+(perusahaan)? 
+4 2 0 0 
+Petunjuk Pengisian PAMAN KAMI Versi 2.0 
+a. Bacalah item pertanyaan penilaian di bawah ini dan pilih kolom yang sesuai 
+dengan kondisi penerapan keamanan informasi pada usaha (perusahaan) 
+Anda. 
+b. Penilaian ini diprioritaskan diisi oleh pimpinan atau manajer usaha 
+(perusahaan). 
+c. Pimpinan a tau manajer usaha (perusahaan) dapat secara langsung 
+menginstruksikan dan men gonfirmasi kepada bagian terkait , apakah 
+langkah kebijakan keamanan telah diimplementasikan. 
+d. Jawablah apakah item pertanyaan penilaian nomor 1 s.d. 25 telah 
+diterapkan oleh usaha (perusahaan) Anda dan  silakan pilih:  
+❖ DM (Diterapkan Menyeluruh), j ika item penilaian diterapkan secara 
+menyeluruh terhadap seluruh karyawan baik pribadi maupun organisasi.  
+❖ DS (Diterapkan Sebagian ), j ika item penilaian hanya diterapkan oleh 
+sebagian dari karyawan atau organisasi.  
+❖ TD (Tidak Diterapkan), jika item penilaian belum diterapkan sama sekali 
+oleh karyawan maupun organisasi.  
+❖ TT (Tidak Tahu), jika Anda belum memahami item penilaian tersebut.  
+
+
+--- PAGE 11 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+10 
+4 Apakah Anda menerapkan penggunaan  kata 
+sandi (password) pada perangkat komputer, 
+laptop dan/atau smartphone untuk mencegah 
+pencurian data? 
+ 
+4 2 0 0 
+5 Sudahkah Anda membuat kata sandi (password) 
+yang kuat dan tidak mudah ditebak  serta tidak 
+menggunakan kata sandi yang sama untuk 
+beberapa Akun (layanan web)? 
+4 2 0 0 
+6 Apakah Anda menerapkan langkah untu k 
+mencegah hilang atau bocornya informasi 
+penting, seperti menyimpan informasi penting di 
+kabinet/lemari/laci yang terkunci, dan tidak 
+meninggalkannya di atas meja? 
+4 2 0 0 
+7 Saat melihat ada orang yang tidak dikenal 
+memasuki area kerja terbatas milik usa ha 
+(perusahaan), apakah  Anda melakukan 
+pengamanan dengan cara mendekati dan 
+menanyakan maksud dan tujuan kedatangan 
+orang tersebut? 
+4 2 0 0 
+8 Apakah Anda sudah memasang alat elektronik  
+anti petir (Surge Protecto r) dan Uninterruptible 
+Power Supplies  (UPS)  yang digunakan untuk 
+melindungi perangkat jaringan usaha 
+(perusahaan) dari sambaran petir, lonjakan listrik 
+atau hubungan pendek listrik? 
+4 2 0 0 
+9 Saat membuang/menghapus informasi penting, 
+apakah Anda sudah memastikan bahwa 
+informasi penting yang dibuang/dihapus 
+menjadi tidak terbaca lagi, seperti 
+menggunakan penghancur kertas/alat 
+penghapus data? 
+4 2 0 0 
+10 Apakah Anda menerapk an kebijakan tidak 
+menghubungkan komputer, laptop, dan 
+smartphone Anda dengan jaringan internet (Wi-
+Fi) publik pada saat menga kses akun -akun 
+penting? 
+4 2 0 0 
+
+
+--- PAGE 12 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+11 
+11 Apakah Anda menerapkan cara untuk 
+menghindari serangan rekayasa so sial (social 
+engineering) seperti membatasi informasi pribadi 
+yang dibagikan kepada publik atau bersikap 
+skeptis terhadap orang tidak dikenal yang ingin 
+mengetahui informasi sensitif Anda? 
+4 2 0 0 
+12 Apakah Anda selalu menjaga Operating System, 
+smartphone, perangkat lunak dan aplikasi usaha 
+(perusahaan) mendapatkan pembaruan  
+(update) keamanan dari  vendor/penyedia 
+secara otomatis? 
+4 2 0 0 
+13 Apakah Anda selalu memastikan bahwa aplikasi 
+yang Anda unduh dan instal pada komputer, 
+laptop, dan smartphone usaha (perusahaan) 
+aman dan berasal dari sumber tepercaya? 
+4 2 0 0 
+14 Apakah Anda menerapkan kebijakan  untuk 
+mengontrol penggunaan Internet, seperti 
+menetapkan aturan tentang menjelajahi situs 
+web dan m engunggah ke media sosial di 
+komputer area kerja (kantor)? 
+4 2 0 0 
+15 Apakah Anda mempunyai program untuk 
+memberikan pemahaman kepada karyawan 
+akan pentingnya keamanan informasi dan 
+bahwa keamanan informasi merup akan 
+tanggung jawab semua orang yang bekerja 
+pada usaha (perusahaan) Anda? 
+4 2 0 0 
+16 Apakah Anda mewajibkan mitra bisnis untuk 
+menjaga kerahasiaan, seperti menyertakan 
+klausul kerahasiaan (kewajiban untuk menjaga 
+kerahasiaan) dalam kontrak? 
+4 2 0 0 
+17 Apakah Anda men erapkan langkah untuk 
+membatasi akses administratif karyawan 
+terhadap data usaha ( perusahaan) secara 
+spesifik sesuai dengan deskripsi tugasnya? 
+4 2 0 0 
+
+
+--- PAGE 13 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+12 
+ 
+18 Apakah Anda selalu memastikan bahwa firewall 
+pada komputer dan/atau laptop selalu akti f 
+dengan tujuan untuk melindungi aset penting  
+Anda dari ancaman /serangan siber  melalui 
+jaringan internet? 
+4 2 0 0 
+19 Apakah Anda menerapkan penggunaan kata 
+sandi (password) dan enkripsi (misal: WPA2 -PSK) 
+pada jaringan WiFi milik usaha (perusahaan) 
+Anda?   
+4 2 0 0 
+20 Apakah Anda menginstal antivirus dan mengatur 
+pembaruan antivirus secara otomatis? 4 2 0 0 
+21 Apakah Anda memastikan bahwa email yang 
+Anda terima aman dari peretas yang ingin 
+mendapatkan akses ke jaringan Anda (email 
+phishing)? 
+4 2 0 0 
+22 Apakah Anda sudah melakukan pemantauan 
+aktivitas log (catatan digital)  terhadap akun 
+yang melakukan akses terhadap sistem Anda? 
+4 2 0 0 
+23 Apakah Anda memiliki rencana tindak untuk 
+menangani kebocoran, kehilangan, atau 
+pencurian aset penting usaha (perusahaan)? 
+4 2 0 0 
+24 Apakah Anda melakukan pencadangan rutin  
+guna mencegah agar informasi penting tidak 
+hilang karena kegagalan fungsi atau kesalahan 
+operasi? 
+4 2 0 0 
+25 Apakah Anda mempelajari dan membagikan 
+informasi tentang ancaman dan metode 
+serangan sibe r terbaru terhadap aplikasi, 
+komputer, laptop, dan/atau smartphone 
+kepada internal usaha (perusahaan)? 
+4 2 0 0 
+HASIL PENILAIAN MANDIRI 
+Total DM + Total DS 
+………….. 
+★   Tidak ada jaminan bahwa langkah -langkah yang dijelaskan dalam lembar PAMAN KAMI Versi 2.0  
+dapat menawarkan perlindungan lengkap. 
+
+
+--- PAGE 14 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+13 
+ 
+ 
+NO PENJELASAN KERENTANAN LANGKAH PROTEKSI 
+1 Aset adalah semua kekayaan 
+yang dipunyai oleh individu 
+ataupun kelompok yang 
+berwujud maupun tidak 
+berwujud, yang memiliki nilai 
+akan memiliki manfaat bagi 
+setiap orang atau perusahaan. 
+ 
+Aset merupakan bagian penting 
+dalam sebuah usaha 
+(perusahaan). Aset bukan hanya 
+dalam bentuk uang tunai, tanah, 
+bangunan, peralatan, ataupun 
+perlengkapan yang lainnya. 
+Namun aset juga dapat berupa 
+informasi perusahaan yang di  
+dalamnya juga meliputi sumber 
+daya perusahaan, seperti SDM, 
+informasi digital, pelanggan, dan 
+sebagainya. 
+ 
+Identifikasi adalah penentu atau 
+penetapan identitas seseorang, 
+benda, dan sebagainya (KBBI). 
+ 
+Tujuan melakukan identifikasi 
+aset penting perusahaan adalah 
+agar keamanan aset penting 
+lebih terjamin dan lebih mudah 
+dalam menentukan langkah 
+manajemen risiko terhadap asset 
+tersebut.  
+ 
+Kerentanan jika tidak dilakukan 
+identifikasi aset penting:  
+a. Buatlah daftar seluruh aset yang 
+Anda mil iki saat ini baik yang 
+berwujud maupun tidak 
+berwujud. 
+b. Buatlah kategori yang dapat 
+memetakan aset penting yang 
+harus dilindungi. 
+c. Buatlah peringkat aset penting 
+yang jika hilang akan 
+berdampak pada bisnis Anda.   
+d. Berikut dapat Anda 
+pertimbangkan sebagai ase t 
+informasi penting perusahaan: 
+▪ Alamat karyawan dan slip 
+gaji. 
+▪ Daftar pembayaran untuk 
+setiap mitra bisnis dan 
+informasi transaksi. 
+▪ Informasi akuntansi 
+organisasi Anda. 
+▪ Daftar kontak pelanggan 
+dan mitra bisnis. 
+▪ Informasi pengembang an 
+seperti gambar desain untuk 
+produk baru. 
+▪ Setiap informasi dari mitra 
+bisnis yang harus ditangani 
+dengan hati-hati. 
+PENJELASAN KERENTANAN DAN LANGKAH PROTEKSI 
+(PENCEGAHAN)  
+ 
+
+
+--- PAGE 15 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+14 
+NO PENJELASAN KERENTANAN LANGKAH PROTEKSI 
+a. Tidak mengetahui aset 
+penting yang dimilikinya 
+b. lemahnya perlindungan 
+terhadap aset tersebut. 
+c. Rentan terhadap pencurian, 
+penghapusan, 
+penghilangan, perusakan. 
+  
+2 Manajemen risiko sangat penting 
+untuk menyadarkan top 
+management terhadap bahaya 
+dan risiko dari aset yang dimiliki.  
+ 
+Penerapan manajemen risiko 
+sangat membantu perusahaan 
+untuk mengelola ketidakpastian 
+yang mungkin terjadi karena 
+perusahaan bisa menyusun 
+rencana pengendalian dan 
+pencegahan sehingga kerugian 
+perusahaan dapat dicegah atau 
+dikurangi.  
+ 
+Tujuan identifikasi r isiko untuk 
+menemukan atau mengetahui 
+risiko-risiko yang mungkin timbul 
+dalam kegiatan yang dilakukan 
+oleh perusahaan atau 
+perorangan. 
+ 
+Kerentanan jika tidak dilakukan 
+penilaian r isiko terhadap aset 
+penting adalah meningkatnya 
+kerugian yang harus ditanggung 
+oleh perusahaan apabila terjadi 
+permasalahan terhadap aset 
+yang dimiliki. 
+a. Identifikasi R isiko merupakan 
+langkah awal dalam siklus 
+Manajemen R isiko. Adapun 
+proses identifikasi r isiko adalah 
+sebagai berikut: 
+▪ Menentukan unit risiko 
+▪ Memahami proses bisnis 
+usaha (perusahaan) 
+▪ Menentukan aktivitas krusial 
+▪ Menentukan barang dan 
+orang pada akti vitas krusial 
+tersebut 
+▪ Menentukan bentuk 
+kerugian yang dapat terjadi 
+pada barang dan orang 
+dari aktivitas krusial tersebut 
+▪ Menentukan penyebab 
+terjadinya kerugian a tau 
+risiko. 
+ 
+b. Salah satu acuan untuk 
+melakukan iden tifikasi r isiko 
+dapat dilihat pada ISO 31000: 
+2018 Risk Management – 
+Principles and Guidelines. 
+
+
+--- PAGE 16 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+15 
+NO PENJELASAN KERENTANAN LANGKAH PROTEKSI 
+3 Meskipun pimpinan telah 
+menetapkan kebijakan tentang 
+langkah keamanan informasi, 
+masih ada kemungkinan 
+karyawan melalukan kelalaian 
+atau pelanggaran. Kecuali jika 
+kebijakan tersebut secara jelas 
+didokumentasikan sebagai 
+aturan internal . K aryawan harus 
+selalu meminta saran dari 
+manajer/pimpinan mereka.  
+ 
+Agar karyawan dapat bertindak 
+mandiri sesu ai dengan aturan, 
+pendokumentasian "aturan 
+perusahaan" secara jelas  
+sangatlah penting sehingga 
+karyawan dapat merujuk pada 
+kebijakan tersebut kapan saja. 
+ 
+Kerentanan jika tidak adanya 
+kebijakan keamanan informasi 
+sebagai berikut: 
+a. Karyawan tidak memiliki 
+pengetahuan dan 
+kompetensi dalam 
+menyikapi aset penting 
+Usaha (perusahaan). 
+b. Karyawan mengabaikan 
+pentingnya perlindungan 
+terhadap aset penting. 
+c. Risiko hilangnya aset penting 
+sangat mungkin terjadi. 
+a. Menyusun kebijakan keamanan 
+informasi yang berdasarkan hasil 
+identifikasi aset , penilaian risiko , 
+dan melibatkan stakeholder. 
+b. Mensosialisasikan kebijakan 
+keamanan informasi kepada 
+seluruh stakeholder usaha  
+(perusahaan). 
+c. Memantau penerapan 
+kebijakan keamanan informasi 
+agar aset yang dilindungi dalam 
+kondisi terjaga keamanannya. 
+d. Meninjau dan mengevaluasi 
+penerapan kebijakan 
+keamanan informasi secara rutin 
+guna memperbaikinya jika 
+terdapat kekurangan.  
+e. Melakukan revisi kebijakan 
+keamanan informasi sesuai 
+dengan hasil peninjauan dan 
+evaluasi penerapan ke bijakan 
+keamanan informasi. 
+4 Kata Sand i atau password 
+merupakan sekumpulan karakter 
+yang digunakan oleh pengguna 
+suatu perangkat, jaringan, sistem 
+a. Mengaktifkan fitur user password 
+untuk mengakses perangkat 
+seperti komputer , laptop, dan 
+smartphone.  
+
+
+--- PAGE 17 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+16 
+NO PENJELASAN KERENTANAN LANGKAH PROTEKSI 
+operasi atau aplikasi yang 
+mendukung banyak pengguna 
+(multiuser) untuk memverifikasi 
+identitas dirinya terhadap suatu 
+perangkat, jaringan, sistem 
+operasi atau aplikasi tersebut.  
+ 
+Tujuan da ri penggunaan 
+password pada komputer, 
+laptop, dan /atau smartphone 
+adalah: 
+a. Menjaga keamanan 
+informasi dan akun. 
+b. Menjadi batasan 
+pelanggaran ke beberapa 
+akun. 
+c. Mencegah peretas 
+mengakses aplikasi secara 
+konstan. 
+d. Mencegah 
+penyalahgunaan informasi 
+penting. 
+e. Membatasi akses yang 
+diperoleh logger keystroke. 
+  
+Kerentanan akan terjadi jika tidak 
+ada kebijakan keamanan 
+informasi pada perangkat  
+komputer, laptop, dan /atau 
+smartphone yang tidak 
+menggunakan kata sandi 
+(password) seperti, pencurian 
+maupun penyalahgunaan 
+informasi maupun data p enting 
+yang terdapat pada perangkat 
+tersebut.  
+ 
+b. melakukan manajemen kata 
+sandi (informasi detail dapat 
+dibaca di poin 5). 
+
+
+--- PAGE 18 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+17 
+NO PENJELASAN KERENTANAN LANGKAH PROTEKSI 
+5 Kata San di atau password 
+merupakan sekumpulan karakter 
+yang digunakan oleh pengguna 
+suatu perangkat, jaringan, sistem 
+operasi atau aplikasi yang 
+mendukung banyak pengguna 
+(multiuser) untuk memverifikasi 
+identitas dirinya terhadap suatu 
+perangkat, jaringan, sistem 
+operasi atau aplikasi tersebut.  
+ 
+Tujuan dari menghindari 
+penggunaan password yang 
+sama untuk mengakses 
+beberapa akun pada suatu 
+sistem atau layanan web adalah 
+untuk: 
+a. Menjaga keamanan 
+informasi dan akun. 
+b. Menjadi Batasan 
+pelanggaran ke beberapa 
+akun. 
+c. Mencegah peretas 
+mengakses aplikasi secara 
+konstan. 
+d. Mencegah 
+penyalahgunaan informasi 
+penting. 
+e. Membatasi akses yang 
+diperoleh logger keystroke. 
+  
+Kerentanan yang ditimbulkan 
+apabila menggunakan kata 
+sandi atau password yang sama 
+untuk mengakses beberapa 
+layanan aplikasi web adalah 
+peretas dapat mengakses 
+aplikasi secara konstan  dan 
+Sebelum bicara tentang 
+manajemen kata sandi, kita harus 
+memahami aturan penting dalam  
+membuat kata sandi yang kuat , 
+yaitu jangan pernah membuat kata 
+sandi dengan suku kata umum.  
+ 
+Membuat kata sandi dengan 
+menggunakan campuran huruf, 
+angka, tanda baca dan s imbol 
+tipografi seperti "@Pr0T3d16%!".  
+  
+Berikut beberapa tip untuk 
+manajemen kata sandi: 
+a. Jangan gunakan kata sandi  
+yang sama pada semua 
+layanan web, platform atau 
+perangkat Anda. 
+b. Selalu ganti ( refresh) kata sandi 
+pada perangkat/gawai 
+komputer, smartphone, router 
+Wi-Fi secara berkala/periodik 
+(30, 60 atau 90 hari). 
+c. Katakan TIDAK/NO apabila situs 
+web meminta untuk 
+"mengingat\remember" kata 
+sandi Anda. 
+d. Jangan menyimpan kata sandi 
+di hard disk/memory tanpa 
+dienkripsi alias Plain Text. 
+e. Jangan menyimpan kata sandi 
+sembarangan di  tempat yang 
+dapat diakses secara bebas 
+oleh umum atau orang lain. 
+f. Jangan berikan kata sandi Anda 
+kepada siapa pun dikarenakan 
+kata sandi merupakan 
+
+
+--- PAGE 19 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+18 
+NO PENJELASAN KERENTANAN LANGKAH PROTEKSI 
+memperbesar r isiko terhadap 
+pencurian maupun 
+penyalahgunaan informasi 
+maupun data p enting yang 
+terdapat pada perangkat 
+tersebut apabila password 
+tersebut sudah bocor.  
+ 
+kredensial terhadap identitas 
+Anda untuk mengakses sistem. 
+ 
+ 
+6 Dokumen yang berisikan 
+informasi penting harus diberikan 
+perlakuan yang khusus untuk 
+menghindari hilang atau 
+bocornya informasi penting 
+tersebut dari pihak yang tidak 
+berhak. Upaya perlakuan khusus 
+terhadap informasi penting yang 
+dapat dilakukan  seperti 
+menyimpannya pada 
+kabinet/lemari/laci yang terkunci 
+dan tidak meninggalkannya di  
+atas meja ta npa adanya 
+pengamanan khusus. 
+ 
+Meninggalkan informasi/  
+dokumen tanpa pengawasan di 
+atas meja merupakan tindakan 
+berbahaya karena rentan 
+terhadap pencurian atau 
+sekedar diambil atau dibaca 
+oleh seseorang . A pabila 
+dokumen tersebut bersifat 
+penting atau rahasia , maka 
+dokumen tersebut dapat dicuri 
+sehingga mengakibatkan 
+kerugian pada usaha atau 
+perusahaan.  
+ 
+a. Terapkan perlakuan khusus 
+terhadap Informasi/dokumen 
+penting untuk mencegah orang 
+lain melihat , menyentuh, 
+membaca, mengambil,  
+dan/atau menyalinnya.  
+b. Terapkan upaya untuk dapat 
+memastikan bahwa informasi/ 
+dokumen berada dalam 
+pengawasan.  
+c. Tentukan lokasi penyimpanan 
+informasi/dokumen. Keluarkan 
+informasi/dokumen hanya jika 
+diperlukan untuk bekerja, dan 
+pastikan untuk menyimpannya 
+kembali setelah selesai. 
+d. Menerapkan 5R (Ringkas, R api, 
+Resik, Rawat, dan Rajin), serta 
+menyimpan informasi/dokumen 
+penting dalam kabinet yang 
+terkunci. 
+
+
+--- PAGE 20 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+19 
+NO PENJELASAN KERENTANAN LANGKAH PROTEKSI 
+7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Terdapat potensi bahaya 
+pencurian informasi jika Anda 
+tidak membat asi akses bagi 
+orang yang tidak berwenang 
+untuk memasuki area kerja 
+terbatas milik usaha 
+(perusahaan). 
+ 
+ 
+  
+Terapkan langkah  pencegahan, 
+seperti mendekati seseorang yang 
+tidak Anda kenal di kantor , 
+menyiapkan meja resepsionis 
+maupun memberikan tanda pada 
+area kerja terbatas milik usaha 
+(perusahaan).  
+ 
+Pastikan, kontrol, dan batasi orang 
+yang tidak berhak  dan tidak 
+diizinkan untuk mengakses 
+informasi/dokumen penting, 
+terutama seperti server, arsip, dan 
+brankas. 
+ 
+8 Surge Protector digunakan untuk 
+melindungi j aringan Anda dari 
+sambaran petir dan lonjakan 
+listrik.  
+ 
+UPS (Uninteruptible Power Supply) 
+merupakan perangkat keras 
+komputer yang berfungsi untuk 
+memberikan suplai listrik ketika 
+tegangan utama tidak berfungsi 
+(terhenti, pemadaman listrik). 
+ 
+Kerentanan ya ng ditimbulkan 
+apabila perusahaan (usaha) 
+tidak menggunakan perangkat 
+tersebut adalah: 
+a. Surge Protector melindungi 
+seluruh jaringan dari 
+kerusakan akibat lonjakan 
+listrik yang dapat 
+mengakibatkan hilangnya 
+semua informasi penting 
+Anda akibat dari kerusakan 
+a. Gunakan S urge Protector  untuk 
+menghubungkan perangkat 
+wireless Anda dengan antena 
+eksternal sehingga melindungi 
+seluruh jaringan anda dari 
+kerusakan akibat lonjakan listrik. 
+ 
+b. Gunakan UPS p ada setiap 
+komputer anda. UPS 
+memungkinkan Anda bekerja 
+melalui pemadaman listrik 
+dengan waktu tertentu namun 
+UPS mampu menyediakan 
+waktu yang cukup untuk 
+menyimpan data Anda saat 
+listrik padam. 
+
+
+--- PAGE 21 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+20 
+NO PENJELASAN KERENTANAN LANGKAH PROTEKSI 
+perangkat penyimpanan 
+informasi tersebut. 
+b. UPS sangat cocok dipakai di 
+perusahaan (usaha) Anda  
+karena bisa menjaga dan 
+melindungi komputer dari 
+hal-hal yang yang tidak 
+diinginkan, contoh nya jika 
+listrik padam UPS akan 
+melindungi dari hilangnya 
+data yang be lum di simpan 
+atau pun dari kerusakan 
+perangkat kerasnya sendiri.  
+ 
+9 Saat membuang atau 
+menghapus informasi penting , 
+Anda harus  memastikan bahwa 
+informasi tersebut sudah dihapus 
+dengan menerapkan prosedur 
+yang benar sehingga informasi 
+tersebut menjadi tidak terbaca 
+dan tidak bisa dipulihkan 
+kembali.  
+ 
+Kerentanan yang ditimbulkan 
+apabila membuang dokumen 
+berisi informasi penting ke tempat 
+sampah tanpa memastikan 
+bahwa informasi tersebut 
+dihapus dengan benar atau 
+menjadikannya tidak terbaca 
+lagi adalah dapat 
+menyebabkan kebocoran 
+informasi serius karena orang lain 
+akan dapat membaca dokumen 
+tersebut. Selain itu, informasi yang 
+disimpan pada perangkat 
+elektronik dan media elektronik 
+a. Ambil langkah untuk 
+memusnahkan informasi, seperti 
+dengan menggunakan 
+perangkat lunak penghapus 
+data, atau meminta seorang 
+spesialis untuk menghapusnya. 
+b. Saat memusnahkan informasi 
+penting bersifat fisik, musnahkan 
+setiap bentuk informasi dengan 
+tepat, seperti dengan 
+menggunakan mesin 
+penghancur kertas atau 
+perangkat keras lainnya.  
+
+
+--- PAGE 22 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+21 
+NO PENJELASAN KERENTANAN LANGKAH PROTEKSI 
+juga dapat dipulihkan, meskipun 
+file sudah dihapus.  
+ 
+10 Wi-Fi publik atau yang juga 
+disebut dengan “hotspot” umum 
+merupakan hak akses internet 
+menggunakan teknologi Wi-Fi 
+melalui jaringan area lokal 
+nirkabel (WLAN ) dimana lokasi 
+fisik tempat Anda berada.  WiFi 
+publik biasanya dimanfaatkan 
+oleh siapa saja yang tidak ingin 
+memboroskan data seluler 
+mereka. Alih-alih ingin 
+menghemat, namun justru r isiko 
+mengancam aset penting yang 
+Anda miliki. 
+ 
+Kerentanan yang ditimbulkan 
+saat Anda menggunakan 
+jaringan internet Wi -Fi publik 
+(misalnya di hotel atau kedai 
+kopi) adalah WiFi publik 
+sebenarnya adalah titik paling 
+mudah bagi orang  lain untu k 
+melihat informasi Anda. Ketika 
+Anda menyambung kan 
+perangkat Anda  dengan 
+jaringan Wi-Fi, Anda mengirimkan 
+informasi pribadi Anda sendiri 
+melalui situs web atau aplikasi 
+ponsel, dan itu sangat mudah 
+bagi para peretas untuk 
+mencegat dan merusak 
+informasi Anda.  
+ 
+Selain itu tidak mudah untuk 
+mencari ta hu siapa pemilik dan 
+a. Tindakan pencegahan paling 
+sederhana adalah tidak 
+menghubungkan komputer, 
+laptop, dan smartphone ke 
+jaringan Internet yang 
+menggunakan Wi -Fi publik, 
+namun disarankan untuk 
+menggunakan 'tethering' (di 
+mana perangkat Anda yang 
+lain seperti smartphone berbagi 
+koneksi 3G / 4G Anda), atau 
+'dongle' nirkabel yang 
+disediakan oleh jaringan seluler 
+Anda. 
+b. Jika terhubung dengan Wi -Fi 
+publik, Anda harus memastikan 
+apabila jaringan tersebut l egal, 
+hindari melakukan transaksi 
+perbankan atau perdagangan  
+untuk menghindari hal -hal yang 
+tidak diinginkan.  
+c. Anda juga dapat 
+menggunakan Jaringan Pribadi 
+Virtual (VPN). 
+d. Aktifkan Firewall pada 
+perangkat yang Anda gunakan. 
+e. Matikan fitur  berbagi file (file 
+sharing) pada pe rangkat Anda  
+melalui menu pengaturan 
+jaringan. Usahakan juga untuk 
+meminimalkan jumlah data 
+pribadi yang disimpan pada 
+perangkat tersebut. 
+
+
+--- PAGE 23 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+22 
+NO PENJELASAN KERENTANAN LANGKAH PROTEKSI 
+yang mengendalikan Wi-Fi publik 
+tersebut. Jika Anda terhubung ke 
+hotspot ini, orang lain dapat: 
+a. Memonitor apa yang sedang 
+Anda kerjakan di dunia 
+maya. 
+b. Mengetahui detail akun 
+pribadi yang And a kelola 
+saat Anda melakukan login 
+maupun melakukan 
+transaksi. 
+ 
+11 Serangan rekayasa sosial (social 
+engineering) merupakan upaya  
+manipulasi psikologis seseorang 
+dengan tujuan untuk  
+mendapatkan informasi/hak 
+akses tertentu dengan cara 
+menipu korbannya secara halus 
+tanpa korban tersebut  
+meyadarinya. Serangan ini 
+dapat dilakukan dengan cara: 
+a. Menggunakan suara 
+Saat menipu seseorang ,  
+penipu bisa berbicara untuk 
+meyakinkan korban. 
+b. Menggunakan 
+gambar/video 
+Spammer memasang 
+gambar/video yang 
+erotis/menarik agar di klik  
+oleh korban. 
+c. Menggunakan tulisan 
+Peretas menulis artikel yang 
+persuasif dan meyakinkan  
+misalnya, dengan menulis 
+tutorial cara membobol akun 
+facebook, t etapi akhirnya 
+a. Batasi Informasi publik 
+Batasi informasi pribadi yang 
+Anda bagikan secara online. 
+b. Bersikap skeptis 
+Selalu mempertanyakan 
+permintaan informasi yang 
+sensitif. 
+c. Verifikasi 
+Jangan berbagi informasi 
+sebelum Anda dapat 
+memverifikasi segala bentuk 
+permintaan melalui media 
+apapun. 
+d. No Password 
+Jangan pernah membagikan 
+kata sandi Anda kepada siapa 
+pun. 
+
+
+--- PAGE 24 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+23 
+NO PENJELASAN KERENTANAN LANGKAH PROTEKSI 
+korban d ituntun untuk 
+menginstall tools hacking 
+yang aslinya adalah 
+malware. 
+Kerentanan yang ditimbulkan 
+dari serangan social engineering 
+(rekayasa sosial) adalah 
+bocornya informasi penting milik 
+pribadi atau perusahaan (usaha) 
+secara langsung melalui target 
+tanpa target tersebut 
+menyadarinya. 
+ 
+12 Setiap Operating System, 
+smartphone, perangkat lunak 
+dan aplikasi selalu menyediakan 
+pembaharuan ( update) secara 
+periodik maupun ins idensial 
+terhadap perangkat mereka 
+dengan tujuan untuk 
+meningkatkan keamanan  dan 
+peforma, dukungan teknologi 
+baru, kompatibilitas,  dan 
+mengatasi permasalahan atau 
+bug pada versi sebelumnya.  
+ 
+Kerentanan yang ditimbulkan 
+akibat dari m engabaikan 
+pembaruan (update) pada 
+Operating System, smartphone , 
+dan perangkat lunak lainnya 
+adalah membuat perangkat 
+Anda rentan terinfeksi virus 
+berbahaya yang belum bisa 
+terdeteksi pada versi 
+sebelumnya.  
+a. Memastikan perangkat 
+terhubung ke jaringan internet 
+yang aman. 
+b. Fitur pe mbaruan diaktifkan 
+secara otomatis. 
+c. Terapkan patch pembaruan 
+(update) ke perangkat atau 
+gunakan versi terbaru. 
+
+
+--- PAGE 25 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+24 
+NO PENJELASAN KERENTANAN LANGKAH PROTEKSI 
+13 Aplikasi yang berasal dari sumber 
+tidak teper caya, dengan  kata 
+lain aplikasi yang diunduh 
+berasal dari sumber yang tidak 
+resmi/aplikasi bajak an. Tentunya 
+aplikasi yang seperti ini 
+menimbulkan banyak kerugian 
+bagi yang menginstalnya. 
+Kerentanan keamanan informasi 
+yang ditimbulkan akibat dari 
+mengabaikan pentingny a 
+memastikan bahwa aplikasi yang 
+diunduh dan diinstal pada 
+komputer, laptop, dan 
+smartphone aman dan berasal 
+dari sumber terpercaya yaitu 
+perangkat Anda dapat terinfeksi  
+atau tersusupi oleh  malware 
+yang berbahaya. 
+ 
+a. Memastikan aplikasi yang 
+diinstal pada perangkat berasal 
+dari sumber terpercaya 
+misalnya Google Play atau 
+Apple App Store untuk 
+smartphone. 
+b. Mengaktifkan fitur  real time 
+protection pada Antivirus Anda. 
+c. Mengaktifkan fitur notifikasi 
+pertanyaan keamanan 
+unknown sources  pada 
+smartphone. 
+14 Internet yang disediakan 
+perusahaan (usaha) merupakan 
+fasilitas untuk memberi  
+kemudahan, ken yamanan, 
+kecepatan dan nilai tambah 
+bagi pegawai dalam 
+pencapaian target kinerja dan 
+keuntungan organisasi. Pegawai 
+dalam rangka pencapaian 
+kinerja dapat menggunak an 
+internet perusahaan untuk 
+mengakses berbagai situs, 
+mengunduh, menyimpan atau 
+mengintalasi aplikasi tertentu. 
+Oleh sebab, untuk mencegah 
+dan mengendalikan Risiko 
+dibutuhkan Kebijakan  akses, 
+a. Terapkan langkah, seperti 
+membuat aturan akses untuk 
+menggunakan Internet dan 
+media sosial, dan gunakan filter 
+web untuk secara sistematis 
+membatasi penggunaan 
+Internet ditempat kerja. 
+b. Salah satu aturan yang dapat 
+diberlakukan untuk mengontrol 
+penggunaan Internet, seperti 
+menetapkan aturan tentang 
+menjelajahi situs web adalah 
+menerapkan web content 
+filtering. Web conte nt filtering  
+dapat digunakan oleh 
+perusahaan (usaha) untuk 
+melakukan penyaringan 
+terhadap sit us-situs yang tidak 
+
+
+--- PAGE 26 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+25 
+NO PENJELASAN KERENTANAN LANGKAH PROTEKSI 
+mengunduh, mengintalasi kode 
+sumber tertentu. 
+Kerentanan yang ditimbulkan 
+apabila tidak adanya kebijakan 
+atau aturan menjelajahi situs web 
+dapat menyebabkan perangkat 
+Anda terinfeksi malware atau 
+virus. 
+diperbolehkan oleh perusahaan 
+(usaha) maupun yang tidak 
+berhubungan dengan tujuan 
+bisnis agar tidak dapat diakses. 
+c. Kendali konten melalui web 
+content filtering  nantinya akan 
+menentukan konten apa saja 
+yang tersedia maupun konten -
+konten yang tidak boleh diakses 
+atau diblokir. Pembatasan 
+tersebut dapat diterapkan di 
+berbagai tingkatan: 
+perorangan, kelompok, sekolah 
+(pendidikan), organisasi, 
+maupun pada penyedia jasa 
+layanan internet (Internet Service 
+Provider). 
+ 
+15 Salah satu ciri organis asi usaha 
+yang tahan terhadap serangan 
+siber adalah memahami bahwa 
+keamanan informasi yang baik 
+adalah tanggung jawab semua 
+orang, bukan hanya 
+unit/departemen TI. Peretas 
+selalu menemukan cara baru 
+untuk mengakses informasi, 
+sehingga sangat penting untuk 
+menciptakan budaya di mana 
+karyawan menyadari dan 
+memahami dampak dari 
+serangan siber. 
+ 
+Kerentanan jika tidak adanya 
+program untuk memberikan 
+pemahaman keamanan 
+informasi bagi pegawai adalah 
+sebagai berikut: 
+Terapkan langkah:  
+a. memberikan pemahaman 
+kepada pegawai secara rutin 
+tentang budaya kesadaran 
+keamanan informasi di 
+lingkungan perusahaan 
+merupakan tanggungjawab 
+semua orang. 
+b. Terapkan dalam merekrut 
+pegawai dengan terlebih 
+dahulu memeriksa profilnya. 
+c. Terapkan penelitian personel 
+yang ingin menjadi pegawai  
+untuk mengetahui profil dan 
+latar belakang calon pegawai. 
+
+
+--- PAGE 27 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+26 
+NO PENJELASAN KERENTANAN LANGKAH PROTEKSI 
+a. Pegawai tidak memiliki 
+pengetahuan dan 
+kompetensi dalam 
+keamanan informasi. 
+b. Karyawan mengabaikan 
+pentingnya keamanan 
+informasi merupakan 
+tanggung jawab semua 
+orang yang bekerja pada 
+usaha (perusahaan). 
+c. Meningkatnya risiko 
+hilangnya aset/informasi 
+penting sangat mungkin 
+terjadi. 
+ 
+16 Klausul kerahasiaan (kewajiban 
+untuk menjaga kerahasiaan) 
+merupakan klausul yang sangat 
+disarankan untuk ditambahkan 
+pada perjanjian kerjasama 
+dengan mitra bisnis. Hal i ni 
+penting sebagai langkah 
+perlindungan terhadap aset 
+atau informasi penting milik 
+perusahaan Anda yang secara 
+langsung maupun tidak langsung 
+dibagikan kepada mitra bisnis 
+Anda. 
+ 
+Kerentanan yang ditimbulkan 
+dengan tidak adanya klausul 
+kerahasiaan secara sp esifik 
+dalam kontrak perjanjian 
+kerjasama adalah:  
+a. Mitra bisnis dapat 
+memanfaatkan dan 
+menyalahgunakan informasi 
+rahasia milik perusahaan.  
+a. Ambil langkah, seperti 
+mencantumkan klausul  
+kerahasiaan pada perjanjian 
+kerjasama dengan mitra bisnis.  
+b. Ketika memberikan informasi 
+rahasia kepada mitra bisnis, 
+perlu dijelaskan bahwa informasi 
+tersebut harus diperlak ukan 
+sebagaimana perlakuan 
+terhadap informasi rahasia. 
+
+
+--- PAGE 28 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+27 
+NO PENJELASAN KERENTANAN LANGKAH PROTEKSI 
+b. Mitra bisnis dapat menjual 
+informasi rahasia 
+perusahaan kepada pihak 
+yang membutuhkan.  
+c. Mitra bisnis 
+memanfaatkannya untuk 
+kepentingan bisnisnya 
+sendiri.  
+17 Pembatasan akses adminitratif 
+dalam hal ini adalah seperti 
+pembagian hak akses karyawan 
+dalam suatu grup untuk 
+mengakses data perusahaan 
+sesuai dengan deskripsi 
+tugasnya. Ini dilakukan untuk 
+melindungi data perusahaan 
+dari karyawan yang tidak 
+memiliki kepentingan terhadap 
+data tersebut sehingga akibat 
+buruk yang ditimbulkan dari 
+penyalahgunaan atau 
+pencurian informasi tersebut 
+dapat dihindari atau 
+diminimalisasi. 
+ 
+Kerentanan yang ditimbulkan jika 
+tidak adanya pembatasan akses 
+administratif karyawan terhadap 
+data perusahaan (usaha) sesuai 
+deskripsi tugasnya , antara lain  
+adalah adanya kemungkinan 
+peretas (penyusup) dari luar atau 
+dalam (karyawan) dapat 
+mengakses lokasi yang sensitif 
+atau sumber daya pe nting 
+(rahasia) milik perusahaan, 
+sehingga dapat dimanfaatkan 
+a. Pastikan Anda membatasi akses 
+karyawan ke lokasi sensitif dan 
+sumber daya.  
+b. Terapkan kebijakan untuk 
+membatasi akses administratif 
+karyawan terhadap data kantor 
+secara spesifik sesuai dengan 
+deskripsi tugasnya untuk 
+mencegah seorang p eretas 
+mendapatkan akses ke jaringan 
+kantor Anda. Misalnya, hanya 
+memungkinkan staf TI yang 
+berwenang untuk mengakses 
+ruang server. 
+
+
+--- PAGE 29 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+28 
+NO PENJELASAN KERENTANAN LANGKAH PROTEKSI 
+untuk tujuan yang dapat 
+merugikan perusahaan (usaha).  
+ 
+18 Firewall merupakan peran gkat 
+sistem keamanan untuk 
+mengelola dan memantau trafik 
+masuk dan keluar berdasarkan 
+aturan keamanan (security rules) 
+yang sudah ditentukan. Firewall 
+berfungsi mencegah akses yang 
+tidak diinginkan dari atau ke 
+dalam jaringan, k omputer, 
+laptop dan/atau server. 
+ 
+Firewall memiliki beberapa fungsi 
+diantaranya adalah sebagai 
+berikut: 
+a. Melindungi data dari peretas 
+dan pengguna yang tidak 
+terotorisasi. 
+b. Mencegah pesan yang tidak 
+diinginkan. 
+c. Mencegah konten yang 
+tidak diinginkan. 
+d. Monitoring bandwidth. 
+ 
+Kerentanan ya ng ditimbulkan 
+dengan tidak  diaktifkannya 
+Firewall pada komputer atau  
+laptop Anda adalah peretas 
+dan/atau pengguna yang tidak 
+memiliki otorisasi dapat masuk 
+kedalam jaringan dan mencuri 
+data komputer atau laptop 
+Anda. 
+ 
+a. Atur k onfigurasi, terapkan, dan 
+pastikan firewall pada komputer 
+atau laptop selau aktif. 
+b. Firewall adalah sistem 
+keamanan yang melindungi 
+komputer atau laptop Anda dari 
+berbagai ancaman di jaringan 
+internet. Firewall ini bekerja 
+sebagai sekat atau tembok 
+yang membatasi komputer dari 
+jaringan i nternet. Salah satu 
+fungsi Firewall adalah 
+melindungi data da ri peretas 
+dan pengguna tidak terotorisasi 
+yang akan mencuri data 
+komputer atau laptop Anda. 
+19 Wi-Fi ( Wireless Fidelity ) 
+merupakan salah satu media 
+a. Pastikan untuk mengatur 
+keamanan jaringan wireless di 
+
+
+--- PAGE 30 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+29 
+NO PENJELASAN KERENTANAN LANGKAH PROTEKSI 
+transimisi data tanpa 
+menggunakan kabel. Wi -Fi 
+rentan dari serangan karena 
+siapa saja bisa masuk kedalam 
+jaringan. Untuk mengatasinya , 
+maka diperlukanlah enkripsi. 
+Dengan adanya enkripsi , maka 
+Wi-Fi Anda akan lebih aman. 
+Jaringan wireless milik 
+perusahaan (usaha) harus di 
+enkripsi dan memiliki password 
+yang kuat untuk mengakses 
+jaringan tersebut.  
+ 
+Kerentanan yang ditimbulkan 
+dari j aringan wireless yang tidak 
+memiliki pengaturan keamanan 
+yang memadai berpotensi 
+mengalami kebocoran atau 
+penyalahgunaan data untuk 
+tindakan kriminal dengan 
+menghubungkannya secara 
+ilegal ke pencuri data.  
+ 
+perusahaan Anda  untuk 
+mencegah penyadapan dan 
+penggunaan yang tidak sah.  
+b. Ambil langkah, seperti 
+menggunakan pengaturan 
+enkripsi (mis. WPA2 -PSK) dan 
+menggunakan frase sandi yang 
+panjang dan sulit ditebak . 
+(Petunjuk pembuatan kata 
+sandi atau password yang baik 
+dapat dilihat pada poin nomor 
+5).  
+20 Antivirus adalah sebuah 
+perangkat lunak  (software) 
+komputer yang berfungsi untuk 
+melindungi komputer dari 
+serangan virus. An tivirus ini akan 
+memberikan perlindungan dan 
+keamanan pada data dan 
+sistem yang ada pada komputer 
+Anda sehingga pengguna 
+komputer tersebut akan merasa 
+aman dan nyaman dalam 
+menyimpan data mereka. 
+ 
+a. Instal perangkat lunak antivirus.  
+b. Atur perangkat agar secara 
+otomatis memperbarui file 
+definisi virus. 
+c. Pertimbangkan untuk 
+menginstal perangkat lun ak 
+keamanan terkonsolidasi.  
+d. Ambil langkah untuk 
+menghadapi metode ancaman 
+dan serangan dengan cara 
+mempelajarinya terlebih dahulu. 
+
+
+--- PAGE 31 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+30 
+NO PENJELASAN KERENTANAN LANGKAH PROTEKSI 
+Beberapa k erentanan yang 
+ditimbulkan apabila tidak 
+menginstal antivirus dan 
+mengatur pembaruan antivirus 
+secara otomatis  adalah t erjadi 
+peningkatan jumlah serangan 
+phishing untuk mencuri User ID, 
+password dan data-data penting 
+lainnya melalui email dengan 
+virus yang menyamar sebagai 
+mitra bisnis , pemangku 
+kepentingan lainnya, dan/atau 
+mengarahkan seseorang untuk 
+membuka situs web palsu yang 
+meniru situs web yang sah.  
+ 
+21 Email Phishing  adalah tindakan 
+memperoleh informasi pribadi 
+seperti User ID, password dan 
+data-data penting lainnya 
+dengan menyamar sebagai 
+orang atau organisasi yang 
+berwenang melalui sebuah 
+email. 
+ 
+Kerentanan yang ditimbulkan 
+dari Email Phising adalah dapat 
+mengelabuhi pengguna agar 
+memberikan kredensial akses 
+login atau memulai transaksi 
+penipuan, serta tanpa sadar 
+menginstal malware, 
+ransomware, dan muatan 
+berbahaya lainnya. Disinilah 
+peretas menemukan celah untuk 
+melakukan serangan siber 
+berbasis email (Email Phising). 
+ 
+a. Lakukan filter spam. 
+b. Waspada terhadap email yang 
+tidak dikenali pengirimnya. 
+c. Hati-hati terhadap lampi ran 
+email, jangan pernah membuka 
+lampiran apabila dirasa 
+mencurigakan. 
+d. Pasang software antivirus yang 
+selalu Up to Date. 
+e. Aktifkan Firewall pribadi dan 
+tetap up to date. 
+
+
+--- PAGE 32 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+31 
+NO PENJELASAN KERENTANAN LANGKAH PROTEKSI 
+22 Monitoring akti vitas atau log 
+digunakan untuk mengetahui 
+aktifitas yang tidak biasa  pada 
+sistem Anda sebagai langkah 
+untuk mengambil keputusan 
+terhadap perlindungan s istem 
+Anda 
+ 
+Perangkat keras atau perangkat 
+lunak misalnya Firewall atau 
+Antivirus seringkali memiliki 
+kemampuan untuk menyimpan 
+catatan log atau akti vitas. Log 
+dapat digunak an untuk 
+mengidentifikasi akti vitas 
+mencurigakan dan sangat 
+berharga apabila digunakan 
+untuk proses investigasi terhadap 
+adanya insiden siber.  Log File 
+berisi catatan otomatis dari 
+semua atau beberapa kegiatan 
+pada sistem komputer.  
+ 
+Kerentanan yang ditim bulkan 
+apabila tidak  melakukan 
+monitoring aktivitas log serta 
+menyimpan file catatan log 
+tersebut adalah sebagai berikut: 
+a. Anda atau usaha 
+(perusahaan) Anda tidak 
+dapat mengetahui aktifitas 
+yang tidak biasa pada sistem 
+anda sebagai langkah untuk 
+mengambil k eputusan 
+terhadap perlindungan 
+sistem Anda. 
+b. Terdapat kendala pada 
+proses investigasi apabila 
+a. Pastikan fungsionalitas log pada 
+perangkat keras atau 
+perangkat lunak Anda aktif. 
+b. Simpan log setidaknya dalam 
+kurun waktu satu tahun. 
+Beberapa informasi log mungkin 
+perlu disimpan dalam kurun 
+waktu enam tahun. 
+c. Anda dapat melakukan 
+monitoring terhadap  log untuk 
+mengetahui aktifitas yang tidak 
+biasa pada sistem Anda 
+sebagai langkah untuk 
+mengambil keputusan terhadap 
+perlindungan sistem Anda. 
+
+
+--- PAGE 33 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+32 
+NO PENJELASAN KERENTANAN LANGKAH PROTEKSI 
+usaha (perusahaan) Anda 
+terkena serangan siber. 
+ 
+23 Ketika suatu insiden terjadi, 
+biasanya tidak ada waktu untuk 
+berpikir dengan tenang, dan 
+keterlambatan dalam 
+menanggapi insiden tersebut 
+cenderung akan memperparah 
+dampak dari insiden tersebut. 
+ 
+Kerentanan yang ditimbulkan 
+apabila usaha (perusahaan) 
+tidak memiliki pedoman rencana 
+tindak untuk  menangani 
+kebocoran, kehilangan, atau 
+pencurian aset penting usaha 
+(perusahaan) adalah sebagai 
+berikut: 
+a. Terhambatnya langkah 
+penanganan insiden si ber 
+sehingga dapat 
+memperparah dampak 
+yang ditimbulkannya. 
+b. Waktu yang dibutuhkan 
+untuk pemulihan terkait 
+insiden tersebut semakin 
+lama sehingga semakin 
+memperbesar kerugian yang 
+ditimbulkan.  
+ 
+a. Ambil langkah, seperti 
+menyiapkan pedoman rencana 
+tindak untuk informasi penting 
+yang bocor, hilang, atau dicuri. 
+b. Gunakan referensi terhadap 
+insiden yang pernah dilaporkan 
+di media untuk memikirkan siapa 
+dan kapan akan melakukan 
+apa, dengan asumsi bahwa hal 
+yang sama dapat terjadi di 
+perusahaan Anda. 
+24 Backup data adalah proses 
+membuat data cadangan 
+dengan car a menyalin atau 
+membuat arsip data komputer 
+sehingga data tersebut dapat 
+digunakan kembali apabila 
+a. Identifikasi data penting yang 
+Anda butuhkan untuk 
+dicadangkan. 
+b. Menyimpan cadangan di lokasi 
+terpisah dan tidak terkoneksi 
+dengan internet secara terus 
+menerus misalnya dengan 
+
+
+--- PAGE 34 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+33 
+NO PENJELASAN KERENTANAN LANGKAH PROTEKSI 
+terjadi kerusakan atau 
+kehilangan. 
+ 
+Tujuan Backup data adalah 
+sebagai berikut: 
+a. Mengembalikan data 
+apabila data tersebut 
+hilang, baik karena terhapus 
+atau karena rusak (corrupt). 
+b. Mengembalikan data ke titik 
+tertentu pada masa lalu. 
+ 
+Kerentanan yang ditimbulkan 
+apabila Anda atau usaha 
+(perusahaan) Anda tidak 
+melakukan pencadangan rutin 
+adalah tidak bisa dipulihkannya 
+data yang hilang akibat 
+kegagalan fungsi, kes alahan 
+operasi, atau infeksi virus.  
+ 
+menggunakan portable hard 
+drives atau cloud storage. 
+c. Apabila Anda menggunakan 
+cloud storage untuk menyimpan 
+cadangan data, baca 
+panduan keamanan cloud 
+storage. 
+d. Lakukan pencadangan data 
+penting secara rutin. 
+25 Salah satu ciri organ isasi usaha 
+yang tahan terhadap serangan 
+siber adalah selalu mempelajari 
+dan membagikan informasi 
+tentang ancaman dan metode 
+serangan siber terbaru terhadap 
+aplikasi, komputer, laptop, 
+dan/atau smartphone kepada 
+internal usaha (perusahaan) . 
+Peretas selalu menemukan cara 
+baru untuk mengakses informasi, 
+sehingga sangat pen ting untuk 
+menciptakan budaya dimana 
+karyawan menyadari dan 
+memahami dampak dari 
+serangan siber. 
+ 
+Ambil langkah, seperti memeriksa 
+situs web tenta ng keamanan siber 
+dan berlangganan majalah untuk 
+mempelajari metode ancaman dan 
+serangan terbaru, mengonfirmasi 
+peringatan yang diberikan oleh 
+layanan internet banking  dan 
+layanan lain yang digunakan, serta 
+membagikan informasi tentang 
+serangan siber tersebut kepada 
+internal perusahaan. Sehingga 
+seluruh pegawai dapat melakukan 
+tindakan pre ventif bahkan 
+mempunyai solusi penanganan 
+apabila insiden tersebut terjadi. 
+
+
+--- PAGE 35 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+34 
+NO PENJELASAN KERENTANAN LANGKAH PROTEKSI 
+Kerentanan jika tidak adanya 
+program untuk memberikan 
+pemahaman keamanan 
+informasi bagi pegawai adalah 
+sebagai berikut: 
+a. Pegawai tidak memiliki 
+pengetahuan dan  
+kompetensi dalam 
+keamanan informasi. 
+b. Karyawan maupun internal 
+usaha (perusahaan) tidak 
+memiliki Informasi terkini 
+tentang ancaman dan 
+metode serangan siber 
+terbaru terhad ap aplikasi, 
+komputer, laptop, dan/atau 
+smartphone. 
+c. Meningkatnya risiko 
+hilangnya ase t/informasi 
+penting sangat mungkin 
+terjadi akibat informasi 
+serangan siber dan langkah 
+pemulihannya yang sudah 
+kedaluarsa. 
+ 
+Referensi: 
+ 
+1. Australian Government, 2017. Cyber Security: The Small Business Best Practice 
+Guide. Australia: Australian Small Business and Family Enterprise Ombudsman. 
+2. Asean Japan  Cyber Security Cooperation , 2019. 5 Menit Penilaian Mandiri 
+Perusahaan terkait Keamanan Informasi.  
+3. BSSN, 2019. Tips Singkat dan Praktis di Dunia Siber, Dari BSSN untuk Masyarakat. 
+Jakarta: BSSN 
+4. NIST, 2016. Small Business Information Security: The Fundame ntals. USA: U.S. 
+Department of Commerce. 
+5. National Cyber Security Centre. Cyber Security: Small Business Guide. 
+6. OPTUS. A Small business Guide to Effective Cyber Security. 
+
+
+--- PAGE 36 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+35 
+7. University of Southern Maine. Small Business Cyber Security Guide. 
+  
+
+
+--- PAGE 37 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+36 
+ 
+ 
+ 
+ 
+Sehubungan dengan adanya perkembangan dan dinamika, PAMAN KAMI 
+Versi 1.1  merupakan perubahan dari Versi 1.0 . Perubahan tersebut dilakukan 
+oleh Baderi dan Eko Tulus Budi Cahyanto pada tanggal 20 September 2019 di 
+Jakarta berdasarkan hasil ujicoba dan validasi instrumen  PAMAN KAMI  pada 
+pelaku usaha bersama Auditor Keamanan Informasi di Kota Balikpapan. Adapun 
+isi perubahannya adalah sebagai berikut: Pertama, penyesuaian substansi pada 
+pertanyaan nomor 4, 6, 20, 21, 23, 24, dan 25. Kedua, rumusan, interval dan kelas 
+interval setelah mengakomodasi Statement of Applicability (SoA). Ketiga, 
+PAMAN KAMI  diupayakan menjadi lebih  user friendly, salah satunya dengan 
+merancang agar pelaku usaha atau start-up dapat mengisi instrumennya 
+langsung dari gawainya masing-masing. 
+Tanggal 26 September 201 9, Baderi dan Eko Tulus Budi Cahyanto 
+memperbarui PAMAN KAMI versi 1.1. menjadi PAMAN KAMI Versi 1.2. di Jakarta 
+berdasarkan hasil ujicoba dan validasi instrumen PAMAN KAMI  pada pelaku 
+usaha di Kota Semarang . Adapun isi perubahannya adalah s ebagai berikut: 
+Pertama, PAMAN KAMI  memiliki segmen berdasarkan   pemetaan tingkatan 
+pelaku usaha dari mikro hingga hectacorn. Kedua, penambahan isian identitas 
+yang dibutuhkan oleh in strumen PAMAN KAMI  seperti jenis kelamin, usia, 
+pendidikan, nilai invest asi, nilai aset, nilai om zet per ta hun, dan jumlah tenaga 
+kerja yang digunakan untuk usaha. Ketiga, penambahan pertanyaan yang 
+relevan dengan kondisi dan kebutuhan Usaha Kecil dan Menengah. 
+Tanggal 05 Oktober 2019 , Baderi dan Eko Tulus Budi Cahyanto 
+memperbarui PAMAN KAMI versi 1.2. menjadi PAMAN KAMI Versi 1.3. di Jakarta 
+berdasarkan Hasil ujicoba dan validasi instrumen PAMAN KAMI pada para start-
+up di Kota Makassar. Di Kota Makassar, responden memberikan respon positif 
+dan menyatakan bahwa keberadaan inst rumen PAMAN KAMI  sangat 
+membantu.  
+Adapun isi perubahannya adalah sebagai berikut: Pertama, para pelaku 
+start-up memberi masukan bahwa mereka kurang setuju jika disebut sebagai 
+UKM dan lebih  tepat disebut  sebagai startup. Salah satu usulan mereka yaitu 
+menambah isian identitas pada intrumen PAMAN KAMI seperti nama website, 
+nama akun Instragram, nama akun Facebook, nama merchant di marketplace 
+yang digunakan untuk usaha.  
+Kedua, identitas pemilik usaha, identitas usaha , dan media digital yang 
+digunakan sanga t dibutuhkan karena akan berpengaruh pada pelaku usaha 
+RIWAYAT PERUBAHAN PRA 
+ LAUNCHING
+  
+ 
+ 
+
+
+--- PAGE 38 ---
+  
+ Direktorat Proteksi Ekonomi Digital 
+  
+ 
+37 
+dalam menjawab pertanyaan -pertanyaan dalam PAMAN KAMI . Ketiga, 
+perubahan judul menjadi PAMAN KAMI untuk UKM dan Start-up.  
+Tanggal 18 Oktober 2019, Baderi dan Eko Tulus Budi Cahyanto melakukan 
+perubahan secara signifikan pada PAMAN KAMI, sehingga PAMAN KAMI Versi 
+1.3. diubah menjadi PAMAN KAMI Versi 2.0. di Jakarta berdasarkan hasil uji coba 
+dan validasi instrumen PAMAN KAMI  pada para start-up di Kota Batam. 
+Responden di Kota Batam me mberikan respon yan g baik dan menyatakan 
+bahwa keberadaan instrumen PAMAN KAMI  sangat membantu para pelaku 
+usaha rintisan. P ara pelaku usaha menilai susunan kalimat maupun istilah -istilah 
+yang digunakan mudah dipah ami karena mereka terbiasa  bekerja dengan 
+perangkat keras/lun ak TIK. Den gan demikian , dapat  disimpulkan bahwa 
+instrumen PAMAN KAMI sudah valid, namun perlu adanya perubahan susunan 
+item penilaian sesuai dengan siklus Cybersecurity Framework.  
+Adapun isi perubahannya adalah sebagai berikut: Pertama, perubahan 
+susunan pertanyaan PAMAN KAMI  Versi 1.3 yang sudah valid tersebut untuk 
+disesuaikan siklusnya dengan menggunakan Cybersecurity Framework  pada 
+NISTIR 7621 Revisi 1 tentang Small Business Information Security: The Fundamentals 
+sebagai pedoman dalam penyusunan item pertanyaan penilaian. Susunan 
+pertanyaan penilaian dikelompo kkan dalam kelompok identifikasi, proteksi, 
+deteksi, penanggulangan, dan pemulihan, sehingga mudah dipahami siklusnya 
+oleh stakeholder.  
+Perubahan item pertanyaan penilaian adalah sebagai berikut: Perubahan 
+Urutan V.1.3 ke V.2.0. Nomor: 1 → 5, 2 → 4, 3 → 12, 4 → 20, 5 → 13, 6 → 11, 7 → 10, 
+8 → 21, 10 → 24, 11 → 6, 13 → 9, , 14 → 7, 15 → 14, 16 → 15, 18 → 17, 20 → 19, 21 
+→ 25, 22 → 16, 24 → 23, dan 25 → 3. Dihapus pada PAMAN KAMI Versi 1.3 Nomor: 
+9, 12, 17, 19, dan 23. Item Pertanyaan Baru pada PAMAN KAMI Versi 2.0 Nomor: 
+1, 2, 8, 18, dan 22.  
+Kedua, melengkapi form identitas usaha (perusahaan), media digital usaha 
+dan identitas pemilik usaha atau pengisi PAMAN KAMI. Ketiga, mengembalikan 
+judul pedoman menjadi PAMAN KAMI untuk Usaha Kecil Menengah. 
+
+
+--- PAGE 39 ---
+Direktorat Proteksi Ekonomi Digital 2019 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Direktorat Proteksi Ekonomi Digital, 
+Deputi Bidang Proteksi,  
+Badan Siber dan Sandi Negara 
