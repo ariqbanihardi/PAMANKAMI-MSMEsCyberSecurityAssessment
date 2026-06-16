@@ -1,4 +1,4 @@
-# SME Cyber Security Capability Assessment
+# SMEs Cyber Security Capability Assessment
 
 This is a static web app for assessing SME cyber security capability using BSSN's **PAMAN KAMI untuk UKM Versi 2.0** guide.
 
